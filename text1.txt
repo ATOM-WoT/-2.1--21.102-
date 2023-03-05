@@ -1,12 +1,4 @@
-ng System.Text;
-using System.Threading.Tasks;
-using System.Text.RegularExpressions;
-using System.IO;
-
-namespace ConsoleApplication1
-{
-    class Program
-    {
+Работу ВЫПОЛНИЛ ЯДЫКИН СЕРГЕЙ ПР-21.102
         static void Main(string[] args)
         {
             Console.WriteLine("Введите осмесленное предолежни:");
